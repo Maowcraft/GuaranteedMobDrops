@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        "##"
+    ],
+    "key": {
+        "#": {
+            "item": "guarmobdrops:gunpowder_scraps"
+        }
+    },
+    "result": {
+        "item": "minecraft:gunpowder",
+        "count": 1
+    }
+}

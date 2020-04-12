@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Guaranteed Mob Drops"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="GradleStartServer"/>
+<stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="Guaranteed Mob Drops"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Guaranteed Mob Drops"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-DFORGE_FORCE_FRAME_RECALC=true"/>
+<stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\aidan\Documents\Modding\Forge Modding\Guaranteed Mob Drops\run"/>
+</launchConfiguration>

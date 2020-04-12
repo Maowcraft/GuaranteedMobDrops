@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#O#",
+        "OBO",
+        "#O#"
+    ],
+    "key": {
+        "#": {
+            "item": "guarmobdrops:nether_star_chunk"
+        },
+        "O": {
+            "item": "minecraft:obsidian"
+        },
+        "B": {
+            "item": "guarmobdrops:withered_bone"
+        }
+    },
+    "result": {
+        "item": "minecraft:nether_star",
+        "count": 1
+    }
+}

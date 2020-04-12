@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "guarmobdrops",
+        "name": "Guaranteed Mob Drops",
+        "description": "Mobs now drop a small piece of their regular drop at all times, combine pieces to form a full item. Mobs still drop their regular drops.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Maowcraft"],
+        "credits": "Maowcraft",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
